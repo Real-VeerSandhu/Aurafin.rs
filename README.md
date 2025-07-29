@@ -37,7 +37,7 @@ This project uses the following popular and safe Rust packages:
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Real-VeerSandhu/Aurafin.rs
 cd rust-backend
 ```
 
