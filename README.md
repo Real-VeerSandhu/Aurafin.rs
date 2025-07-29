@@ -1,4 +1,4 @@
-# Aurafin
+# Aurafin.rs
 
 **Finance REST API in Rust**
 
