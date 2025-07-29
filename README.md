@@ -1,4 +1,6 @@
-# Finance REST API in Rust
+# Aurafin
+
+**Finance REST API in Rust**
 
 A high-performance REST API for finance applications built with Rust, featuring stock price tracking, portfolio management, and market data.
 
