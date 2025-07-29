@@ -53,7 +53,7 @@ cargo run
 
 The API will be available at `http://localhost:3000`
 
-## 📚 API Endpoints
+## API Endpoints
 
 ### Health Check
 ```
@@ -150,7 +150,7 @@ GET /api/v1/market/summary
 ```
 Get market overview including top gainers, losers, and most active stocks.
 
-## 🧪 Testing
+## Testing
 
 ### Using the Bash Script
 ```bash
@@ -213,7 +213,7 @@ curl http://localhost:3000/api/v1/watchlist
 curl http://localhost:3000/api/v1/market/summary
 ```
 
-## 📊 Response Format
+## Response Format
 
 All API responses follow a consistent format:
 
